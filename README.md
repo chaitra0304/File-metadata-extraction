@@ -16,7 +16,7 @@ This project contains a PowerShell script that automatically extracts **file met
 
 ### 1️⃣ Download / Clone the Script
 You can download the script directly:
-👉 *(GitHub will show link automatically once this README is saved)*
+👉[* *(](https://github.com/chaitra0304/File-metadata-extraction/blob/main/Generate_File_Report.ps1)
 
 ---
 
