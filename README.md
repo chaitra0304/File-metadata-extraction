@@ -13,8 +13,6 @@ This project contains a PowerShell script that automatically extracts **file met
 ---
 
 ## How to use
-## 🚀 How to Use (5 Simple Steps)
-
 1️⃣ Download the script or clone the repository.  
 2️⃣ Open PowerShell and navigate to the script location using:  
    `cd "C:\Path\To\Folder"`  
