@@ -24,7 +24,7 @@ This project contains a PowerShell script that automatically extracts **file met
    `.\Generate_File_Report.ps1 -FolderPath "D:\Evidence"`  
 5️⃣ The script generates `File_Details_Report.csv` containing metadata and SHA-256 hash values.
 
-### 1️⃣ Download / Clone the Script
+## Download / Clone the Script
 You can download the script directly:
 👉[* *(](https://github.com/chaitra0304/File-metadata-extraction/blob/main/Generate_File_Report.ps1)
 
